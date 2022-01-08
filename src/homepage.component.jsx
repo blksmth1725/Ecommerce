@@ -5,31 +5,31 @@ function HomePage() {
     <div className="home-page">
       <div classNam="menu-item">
         <div className="content">
-          <div className="title">HATS</div>
+          <h2 className="title">HATS</h2>
           <span className="sub-title">SHOP NOW</span>
         </div>
       </div>
       <div classNam="menu-item">
         <div className="content">
-          <div className="title">JACKETS</div>
+          <h2 className="title">JACKETS</h2>
           <span className="sub-title">SHOP NOW</span>
         </div>
       </div>
       <div classNam="menu-item">
         <div className="content">
-          <div className="title">SNEAKERS</div>
+          <h2 className="title">SNEAKERS</h2>
           <span className="sub-title">SHOP NOW</span>
         </div>
       </div>
       <div classNam="menu-item">
         <div className="content">
-          <div className="title">WOMENS</div>
+          <h2 className="title">WOMENS</h2>
           <span className="sub-title">SHOP NOW</span>
         </div>
       </div>
       <div classNam="menu-item">
         <div className="content">
-          <div className="title">MENS</div>
+          <h2 className="title">MENS</h2>
           <span className="sub-title">SHOP NOW</span>
         </div>
       </div>
